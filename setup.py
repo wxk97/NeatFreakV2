@@ -11,6 +11,7 @@ setup(
             "CFBundleDisplayName": "Neat Freak",
             "CFBundleIdentifier": "com.neatfreak.app",
             "CFBundleVersion": "1.0.0",
+            "CFBundleIconFile": "NeatFreak",
             "NSHighResolutionCapable": True,
         },
     }},
